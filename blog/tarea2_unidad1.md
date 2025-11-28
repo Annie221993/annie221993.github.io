@@ -100,7 +100,8 @@ abajo(3)
 
 
 
- Ejercicio Avanzado 5 – Simulación de escalones
+ Ejercicio Avanzado 5 –
+ Simulación de escalones
 
 def adelante(n):
     print("→ " * n)
