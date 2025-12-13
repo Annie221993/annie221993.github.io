@@ -1,14 +1,42 @@
 blog/tarea2_unidad1.md
+
 ANA CRISTINA OSORIO GARCÍA
 
 Tarea 2 - Ejercicios Unidad 1
 
-En esta página presento los ejercicios básicos y avanzados de la Unidad 1, relacionados con Python y la simulación de la librería turtle.
+En esta página presento los ejercicios básicos y avanzados de la Unidad 1-simulación de la tortuga, relacionados con <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=define+Python&amp;bbid=5762019889463885119&amp;bpid=6120543697310531627" target="_blank">Python</a> y la simulación de la <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Python+turtle+library&amp;bbid=5762019889463885119&amp;bpid=6120543697310531627" target="_blank">librería turtle</a>.
 Incluyo los enunciados, soluciones en Python y una breve explicación.
+La historia de una tortuga que aprendió a dibujar
 
 
 
- Ejercicio 1 – Suma de dos números
+
+
+
+Imagen que muestra la simulación del movimiento de la tortuga al ejecutar el código en Python, donde avanza y desciende según los pasos indicados. 
+
+
+
+Introducción
+
+Al iniciar esta actividad, me enfrenté a un reto que, aunque parecía sencillo, requería atención al detalle y lógica de programación. El objetivo era utilizar la librería turtle de Python para crear dibujos a partir de instrucciones precisas. Decidí abordar este ejercicio como una historia, donde la protagonista es una tortuga que aprende a moverse siguiendo órdenes claras y estructuradas.
+
+Esta narración combina una explicación técnica con un relato progresivo del razonamiento que utilicé para construir la solución.
+
+
+Conociendo a la tortuga
+
+Antes de comenzar a dibujar, fue necesario importar la librería turtle y crear el personaje principal de esta historia. En este punto entendí que, sin inicializar la tortuga, no era posible ejecutar ningún movimiento.
+
+
+
+
+
+ Ejercicio 1- suma de dos números
+# Este programa solicita dos números al usuario y muestra la suma de ambos.
+
+
+ – <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Python+Suma+de+dos+n%C3%BAmeros&amp;bbid=5762019889463885119&amp;bpid=6120543697310531627" target="_blank">Suma de dos números</a>
 
 numero1 = float(input("Ingrese el primer número: "))
 numero2 = float(input("Ingrese el segundo número: "))
@@ -18,14 +46,19 @@ print("La suma es:", suma)
 
 
  Ejercicio 2 – Área de un círculo
+# Este programa calcula el área de un círculo a partir del radio ingresado por el usuario.
 
 import math
 radio = float(input("Ingrese el radio: "))
-area = math.pi * (radio ** 2)
+area = <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=math.pi&amp;bbid=5762019889463885119&amp;bpid=6120543697310531627" target="_blank">math.pi</a> * (radio ** 2)
 print("El área del círculo es:", area)
 
 
- Ejercicio 3 – Cálculo del IMC
+ Ejercicio 3 - cálculo del IMC
+# Este programa calcula el área de un círculo a partir del radio ingresado por el usuario.
+
+
+ – <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Python+C%C3%A1lculo+del+IMC&amp;bbid=5762019889463885119&amp;bpid=6120543697310531627" target="_blank">Cálculo del IMC</a>
 
 peso = float(input("Ingrese su peso (kg): "))
 estatura = float(input("Ingrese su estatura (m): "))
@@ -34,7 +67,10 @@ print(f"IMC: {imc:.2f}")
 
 
 
- Ejercicio 4 – Número par o impar
+ Ejercicio 4 - Número par o impar
+# Este programa determina si un número ingresado es par o impar.
+
+– <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Python+N%C3%BAmero+par+o+impar&amp;bbid=5762019889463885119&amp;bpid=6120543697310531627" target="_blank">Número par o impar</a>
 
 numero = int(input("Ingrese un número: "))
 if numero % 2 == 0:
@@ -51,15 +87,20 @@ Ejercicios Avanzados – Simulación de la tortuga
 
 
  Ejercicio Avanzado 1 – Simular avance con print()
+# Este programa simula el avance de una tortuga mostrando flechas hacia la derecha.
 
-print("Simulación de tortuga")
+
+print("<a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Python+Simulaci%C3%B3n+de+tortuga&amp;bbid=5762019889463885119&amp;bpid=6120543697310531627" target="_blank">Simulación de tortuga</a>")
 pasos = int(input("¿Cuántos pasos quiere avanzar la tortuga? "))
 print("→ " * pasos)
 
 
 
 
- Ejercicio Avanzado 2 – Tortuga descendiendo
+ Ejercicio Avanzado 2 - tortuga descendiendo
+# Este programa simula el descenso de una tortuga mostrando flechas hacia abajo.
+
+ – <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Python+Tortuga+descendiendo&amp;bbid=5762019889463885119&amp;bpid=6120543697310531627" target="_blank">Tortuga descendiendo</a>
 
 print("Tortuga descendiendo")
 pasos = int(input("¿Cuántos pasos hacia abajo? "))
@@ -70,8 +111,10 @@ for i in range(pasos):
 
 
  Ejercicio Avanzado 3 – Movimiento en forma de L
+# Este programa simula el movimiento de una tortuga en forma de L.
 
-print("Simulación en forma de L")
+
+print("<a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Python+Simulaci%C3%B3n+en+forma+de+L&amp;bbid=5762019889463885119&amp;bpid=6120543697310531627" target="_blank">Simulación en forma de L</a>")
 
 horizontal = int(input("¿Cuántos pasos hacia adelante? "))
 vertical = int(input("¿Cuántos pasos hacia abajo? "))
@@ -84,7 +127,10 @@ for i in range(vertical):
 
 
 
- Ejercicio Avanzado 4 – Movimientos encapsulados con funciones
+ Ejercicio Avanzado 4 - Movimientos encapsulados con funciones.
+# Este programa utiliza funciones para simular los movimientos de la tortuga.
+
+ – <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Python+Movimientos+encapsulados+con+funciones&amp;bbid=5762019889463885119&amp;bpid=6120543697310531627" target="_blank">Movimientos encapsulados con funciones</a>
 
 def adelante(n):
     print("→ " * n)
@@ -102,6 +148,8 @@ abajo(3)
 
  Ejercicio Avanzado 5 –
  Simulación de escalones
+# Este programa simula una serie de escalones usando movimientos repetidos.
+
 
 def adelante(n):
     print("→ " * n)
@@ -116,3 +164,24 @@ abajo(2)
 
 adelante(5)
 abajo(2)
+
+
+
+
+Uso de Inteligencia Artificial
+
+> Para el desarrollo de esta actividad utilicé herramientas de inteligencia artificial como apoyo para aclarar conceptos, mejorar la redacción y verificar la estructura del código en Python.
+La IA fue utilizada como guía de aprendizaje y no como reemplazo del razonamiento propio.
+
+Herramienta utilizada:
+
+ChatGPT – OpenAI: https://chat.openai.com/ 
+
+
+
+
+
+
+
+
+
