@@ -12,6 +12,7 @@ La historia de una tortuga que aprendió a dibujar
 
 
 
+![Imagen de WhatsApp 2025-12-13 a las 12 48 35_eccbc5ce](https://github.com/user-attachments/assets/d1c39530-a992-46e1-a428-96837c86e2e1)
 
 Imagen que muestra la simulación del movimiento de la tortuga al ejecutar el código en Python, donde avanza y desciende según los pasos indicados. 
 
