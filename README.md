@@ -31,3 +31,20 @@ print(mensaje)
 ## Transparencia en el uso de IA
 Para la realización de esta actividad utilicé ChatGPT como apoyo para la redacción y verificación del formato Markdown.  
 Enlace a la conversación: [https://chat.openai.com/share/...](https://chat.openai.com/share/...) 
+
+
+# Mini Turtle OO
+
+Ejercicio 2 – Versión Orientada a Objetos (POO) del proyecto Mini-Turtle.
+
+En este proyecto se refactoriza la versión funcional para aplicar
+Programación Orientada a Objetos, eliminando variables globales y
+utilizando encapsulamiento.
+
+## Objetivo
+Modelar una tortuga mediante una clase Tortuga, donde cada objeto
+mantiene su propio estado de forma independiente.
+
+## Estructura del proyecto
+
+- `mini_turtle
