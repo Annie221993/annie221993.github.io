@@ -7,7 +7,7 @@ aplicando modularidad y Programación Orientada a Objetos.
 ### 🔹 Ejercicio 1 – Versión Funcional
 Repositorio con la implementación modular usando funciones y variables globales.
 
-🔗 Enlace: https://github.com/TU_USUARIO/TU_REPO_EJERCICIO_1
+🔗 Enlace: https://github.com/Annie221993/annie221993.github.io/tree/main/blog
 
 ### 🔹 Ejercicio 2 – Versión Orientada a Objetos (POO)
 Repositorio refactorizado usando clases, encapsulamiento y objetos independientes.
