@@ -1,16 +1,15 @@
 
-# Mini Turtle OO
+## 🐢 Tarea Mini-Turtle
 
-Ejercicio 2 – Versión Orientada a Objetos (POO) del proyecto Mini-Turtle.
+En esta actividad se desarrollaron dos versiones del proyecto Mini-Turtle,
+aplicando modularidad y Programación Orientada a Objetos.
 
-En este proyecto se refactoriza la versión funcional para aplicar
-Programación Orientada a Objetos, eliminando variables globales y
-utilizando encapsulamiento.
+### 🔹 Ejercicio 1 – Versión Funcional
+Repositorio con la implementación modular usando funciones y variables globales.
 
-## Objetivo
-Modelar una tortuga mediante una clase Tortuga, donde cada objeto
-mantiene su propio estado de forma independiente.
+🔗 Enlace: https://github.com/TU_USUARIO/TU_REPO_EJERCICIO_1
 
-## Estructura del proyecto
+### 🔹 Ejercicio 2 – Versión Orientada a Objetos (POO)
+Repositorio refactorizado usando clases, encapsulamiento y objetos independientes.
 
-- `mini_turtle
+🔗 Enlace: https://github.com/TU_USUARIO/TU_REPO_EJERCICIO_2 
