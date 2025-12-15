@@ -4,12 +4,12 @@
 En esta actividad se desarrollaron dos versiones del proyecto Mini-Turtle,
 aplicando modularidad y Programación Orientada a Objetos.
 
-### 🔹 Ejercicio 1 – Versión Funcional
-Repositorio con la implementación modular usando funciones y variables globales.
+# 🐢 Tarea 03 – Mini Turtle
 
-🔗 Enlace: https://github.com/Annie221993/annie221993.github.io/edit/main/README.md
+## Ejercicio 1 – Versión Funcional
+Repositorio:
+https://github.com/Annie221993/mini_turtle
 
-### 🔹 Ejercicio 2 – Versión Orientada a Objetos (POO)
-Repositorio refactorizado usando clases, encapsulamiento y objetos independientes.
-
-🔗 Enlace: https://github.com/TU_USUARIO/TU_REPO_EJERCICIO_2 
+## Ejercicio 2 – Versión Orientada a Objetos (POO)
+Repositorio:
+https://github.com/Annie221993/mini_turtle_oo 
