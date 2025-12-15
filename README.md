@@ -12,4 +12,5 @@ https://github.com/Annie221993/mini_turtle
 
 ## Ejercicio 2 – Versión Orientada a Objetos (POO)
 Repositorio:
-https://github.com/Annie221993/mini_turtle_oo 
+
+https://github.com/Annie221993/annie221993.github.io/tree/2ebdb9a82ef30bff23529e542d12c7e11f51832a/blog
